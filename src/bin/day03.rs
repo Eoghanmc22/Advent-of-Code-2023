@@ -2,7 +2,6 @@
 extern crate test;
 
 use std::{
-    cell::RefCell,
     mem,
     sync::atomic::{AtomicBool, Ordering},
     time::Instant,

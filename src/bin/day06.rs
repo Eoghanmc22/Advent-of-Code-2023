@@ -1,7 +1,5 @@
 use std::time::Instant;
 
-use itertools::Itertools;
-
 fn main() {
     let start = Instant::now();
 

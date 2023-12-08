@@ -20,7 +20,6 @@ fn main() {
     // println!("numeric {sum}");
 
     // Part 2
-    // I hate my life
     let mut sum = 0;
     let re = Regex::new(r"([0-9]|one|two|three|four|five|six|seven|eight|nine)").unwrap();
 
